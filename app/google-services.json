@@ -1,0 +1,321 @@
+{
+  "project_info": {
+    "project_number": "786450653173",
+    "firebase_url": "https://androidlife-7f87a.firebaseio.com",
+    "project_id": "androidlife-7f87a",
+    "storage_bucket": "androidlife-7f87a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:e7ccd20ee7844ed1",
+        "android_client_info": {
+          "package_name": "com.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:21320574c7078b5f",
+        "android_client_info": {
+          "package_name": "com.androidlife.pushe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:ae699281ea3b98ad",
+        "android_client_info": {
+          "package_name": "com.app.bazarche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:ba496a3a09675b48",
+        "android_client_info": {
+          "package_name": "com.app.markeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:0acd1b0392928800",
+        "android_client_info": {
+          "package_name": "com.apps.khaterat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:3f56dd3bdffe71a5",
+        "android_client_info": {
+          "package_name": "com.apps.onlinemp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:e6b752cfd8325690",
+        "android_client_info": {
+          "package_name": "com.example.androidlife.cafetarane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:846a3660373c5f79",
+        "android_client_info": {
+          "package_name": "com.korosh.androidlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:21ca7f96eb55a0d1",
+        "android_client_info": {
+          "package_name": "com.test.par"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786450653173:android:4ed72b68f0b8f28c",
+        "android_client_info": {
+          "package_name": "ir.androidlife.fcmpusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786450653173-cskc6hkbfabp55g1ira1baud6sr5h9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lOlqhTReoYByZ9UGV-D2yXcsxT58GSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
